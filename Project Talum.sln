@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Talum", "Project Talum.csproj", "{F3085716-1CD0-8728-04A3-6DB49615888C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Talum.Editor", "Project Talum.Editor.csproj", "{286B5ACA-4807-E700-4374-83E65508496E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3085716-1CD0-8728-04A3-6DB49615888C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3085716-1CD0-8728-04A3-6DB49615888C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3085716-1CD0-8728-04A3-6DB49615888C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3085716-1CD0-8728-04A3-6DB49615888C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286B5ACA-4807-E700-4374-83E65508496E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286B5ACA-4807-E700-4374-83E65508496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286B5ACA-4807-E700-4374-83E65508496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286B5ACA-4807-E700-4374-83E65508496E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
